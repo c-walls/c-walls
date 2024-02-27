@@ -7,16 +7,16 @@
 
 #### 🛠️ Below, I've included some of my current technical proficiencies, with many more tools, languages, and libraries on the agenda to learn soon:
 
-<b>Programming Languages:</b> R, SQL, Python, Visual Basic, JavaScript, HTML, CSS <br>
-<b>Development Tools:</b> VS Code, R Studio, Git, GitHub <br>
-<b>Data Analysis Tools:</b> Tableau, Ggplot2, Knime Analytics, Predictive Modeling <br>
-<b>Operating Systems:</b> Windows, Linux <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Programming Languages:</b> R, SQL, Python, Visual Basic, JavaScript, HTML, CSS <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Development Tools:</b> VS Code, R Studio, Git, GitHub <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Data Analysis Tools:</b> Tableau, Ggplot2, Knime Analytics, Predictive Modeling <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Operating Systems:</b> Windows, Linux <br>
 
 
 #### 🚀 I'm open to collaboration of any kind, so please reach out if you have an open job position or an idea for a startup, open-source project, or other form of technical endeavor!
 
-  #### 📧 calebmarcuswalls@gmail.com <br>
-  #### 🔗 www.linkedin.com/in/c-walls
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧 calebmarcuswalls@gmail.com <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 www.linkedin.com/in/c-walls
 
 
 <!-- Add:
