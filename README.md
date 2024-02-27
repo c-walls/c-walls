@@ -9,8 +9,8 @@ In addition to my enthusiasm for coding and problem-solving, a background in edu
 
 <b>Programming Languages:</b> R, SQL, Python, Visual Basic, JavaScript, HTML, CSS <br>
 <b>Development Tools:</b> VS Code, R Studio, Git, GitHub <br>
-<b>Data Analysis Tools:</b> Tableau, Ggplot2, Knime Analytics, Predictive Modeling <br><br>
-<b>Operating Systems:</b> Windows, Linux <br>
+<b>Data Analysis Tools:</b> Tableau, Ggplot2, Knime Analytics, Predictive Modeling <br>
+<b>Operating Systems:</b> Windows, Linux <br><br>
 
 
 🚀 I'm open to collaboration of any kind, so please reach out if you have an open job position or an idea for a startup, open-source project, or other form of technical endeavor!
