@@ -8,9 +8,9 @@
 
 #### 🛠️ Below, I've included some of my current technical proficiencies, with many more tools, languages, and libraries on the agenda to learn soon:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Programming Languages:</b> R, SQL, Python, Visual Basic, JavaScript, HTML, CSS <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Development Tools:</b> VS Code, R Studio, Git, GitHub <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Data Analysis Tools:</b> Tableau, Ggplot2, Knime Analytics, Predictive Modeling <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Programming Languages:</b> R, SQL, Python, Visual Basic, JavaScript, HTML, CSS, JSON, XML <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Development Tools:</b> VS Code, R Studio, Git, GitHub, GitHub Copilot, Oracle Cloud Database <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Data Analysis Tools:</b> Tableau, Ggplot2, Knime Analytics, PyTorch, Pandas, Gradient Boosting Libraries <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Operating Systems:</b> Windows, Linux <br>
 
 
