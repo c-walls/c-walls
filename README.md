@@ -5,7 +5,6 @@
 
 #### In addition to my enthusiasm for coding and problem-solving, a background in education and the humanities inspires my diverse range of interests. I'm always looking to push the boundaries of my knowledge, often through projects that blend various fields such as NLP, Educational Theory, Cognitive Science, Virtual Reality, Game Theory, and many others. <br><br>
 
-
 #### 🛠️ Below, I've included some of my current technical proficiencies, with many more tools, languages, and libraries on the agenda to learn soon:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Programming Languages:</b> R, SQL, Python, Visual Basic, JavaScript, HTML, CSS, JSON, XML <br>
