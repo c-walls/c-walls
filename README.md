@@ -1,7 +1,7 @@
 
 ### Hi there 👋 Welcome to my GitHub!
 
-#### I'm Caleb Walls, a graduate student in Informatics with a deep passion for exploring the realms of Artificial Intelligence, Machine Learning, and Applications Development.
+#### I'm Caleb Walls, a graduate student in Informatics with a deep passion for exploring concepts related to Artificial Intelligence, Machine Learning, and Applications Development.
 
 #### In addition to my enthusiasm for coding and problem-solving, a background in education and the humanities inspires my diverse range of interests. I'm always looking to push the boundaries of my knowledge, often through projects that blend various fields such as NLP, Educational Theory, Cognitive Science, Virtual Reality, Game Theory, and many others. <br>
 
